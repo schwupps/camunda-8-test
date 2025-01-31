@@ -1,4 +1,4 @@
-package com.github.shallala;
+package com.github.schwupps;
 
 import io.camunda.zeebe.client.ZeebeClient;
 import io.camunda.zeebe.client.api.response.ActivatedJob;
